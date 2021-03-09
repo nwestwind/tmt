@@ -1,2 +1,2 @@
-# transparentmediatruth
+# Transparent Media Truth
 
